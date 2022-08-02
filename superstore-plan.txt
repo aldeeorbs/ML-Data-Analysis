@@ -1,0 +1,11 @@
+-Are the sales numbers before or after discount?
+
+
+Machine Learning
+-Cluster based on:
+	-Customers
+	-Products
+	-Zip codes
+		-Profit vs Sales
+		-Profit vs Discount
+		-Sales vs Discount
