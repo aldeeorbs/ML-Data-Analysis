@@ -1,2 +1,3 @@
-# ML-Data-Analysis
-Data analysis and machine learning projects
+# Data analysis and Machine Learning projects
+- Anime Score Predictor
+- US Store Analysis
